@@ -1,0 +1,65 @@
+{
+  "signed": {
+    "_type": "https://supply-chain-tools.github.io/schemas/tuf-ish/root/v0.0",
+    "scope": "github.com/supply-chain-tools",
+    "version": 1,
+    "expires": "2025-01-01T00:00:00Z",
+    "forgeId": "github.com",
+    "identities": [
+      {
+        "email": "stian.kristoffersen@telenor.no",
+        "forgeUsername" : "stiankri-telenor",
+        "forgeUserId": "155450741",
+        "sshPublicKeys": [
+          "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIHa4MOkvaZbhdeWuYUFQ1sywWYkpW9x9uVTX+RlDdMvXAAAABHNzaDo="
+        ]
+      },
+      {
+        "email": "33384479+dev-bio@users.noreply.github.com",
+        "forgeUsername" : "dev-bio",
+        "forgeUserId": "33384479",
+        "sshPublicKeys": [
+          "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIDTCGpjJM/to9icZbLRiyYzz1UoPDTSbqhwLRotpWd4sAAAABHNzaDo="
+        ]
+      },
+      {
+        "email": "44880186+root4loot@users.noreply.github.com",
+        "forgeUsername" : "root4loot",
+        "forgeUserId": "44880186",
+        "sshPublicKeys": [
+          "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIPptdMOOzjxQ1/Xq9zTfEcHvKfBpc0wA4av1/9sp7DjpAAAABHNzaDo="
+        ]
+      }
+    ],
+    "roles": {
+      "root": {
+        "identities": [
+          "stian.kristoffersen@telenor.no",
+          "33384479+dev-bio@users.noreply.github.com",
+          "44880186+root4loot@users.noreply.github.com"
+        ],
+        "thresholdIdentities": 2,
+        "thresholdKeys": 2
+      },
+      "targets": {
+        "identities": [
+          "stian.kristoffersen@telenor.no",
+          "33384479+dev-bio@users.noreply.github.com",
+          "44880186+root4loot@users.noreply.github.com"
+        ],
+        "thresholdIdentities": 2,
+        "thresholdKeys": 2
+      }
+    }
+  },
+  "signatures": [
+    {
+      "keyid": "",
+      "sig": ""
+    },
+    {
+      "keyid": "",
+      "sig": ""
+    }
+  ]
+}

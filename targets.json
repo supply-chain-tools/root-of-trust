@@ -1,0 +1,27 @@
+{
+  "signed": {
+    "_type": "https://supply-chain-tools.github.io/schemas/tuf-ish/targets/v0.0",
+    "scope": "github.com/supply-chain-tools",
+    "version": 1,
+    "expires": "2025-01-01T00:00:00Z",
+    "targets": {
+      "gitverify.json": {
+        "length": 3050,
+        "hashes": {
+          "sha256": "8b5f21fe1a8f49a1b795ca57de600a4465c7e566ca3895ddf9bf7d7899c31ac4",
+          "sha512": "9592cc44634d36ff5ad7c894ee19be634f509536b1c36d1c97787d610ff7a9b4a1eb8d6d51a42e53bff19e713074b1fdf7f1d198b8fbc7d2ab57e3b221cdb6e0"
+        }
+      }
+    }
+  },
+  "signatures": [
+    {
+      "keyid": "",
+      "sig": ""
+    },
+    {
+      "keyid": "",
+      "sig": ""
+    }
+  ]
+}
