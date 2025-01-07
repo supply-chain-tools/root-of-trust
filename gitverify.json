@@ -51,7 +51,7 @@
       "uri": "git+https://github.com/supply-chain-tools/go-sandbox.git",
       "after": [{
         "sha1": "d914a9ded0d3ed2a3bf25ab40e468630c04d4001",
-        "sha256": "1a09de529c38d6d52a710c2cf4bd2ce209af7398908be1aa8052c318cdcd60fb",
+        "sha512": "dec8340a0935985f3ffc99a4c735b30e5aef4f580116af4ffc0d714457044db2d2c1b90a1de1e3bd40e2f98e7489a1ee0f7b7aa92d9c7e2bea6a108c45671e17",
         "branch": "main"
       }]
     },
@@ -59,7 +59,7 @@
       "uri": "git+https://github.com/supply-chain-tools/root-of-trust.git",
       "after": [{
         "sha1": "31834c6213a7aee549986311093e05cf8440bf53",
-        "sha256": "402e295f771cc33dd269cb0bd7a5b54a8c420a40340a200a95f062f4c97a693b",
+        "sha512": "d88011ada2e2930094220d7f075137c7e262e7d760c4e4d295bc3a6521c9abc61173f12b193bfc5d1fffc59c8722d58f7434cc757a83351b5b48b11d1f06d4e2",
         "branch": "main"
       }]
     },
@@ -67,7 +67,7 @@
       "uri": "git+https://github.com/supply-chain-tools/schemas.git",
       "after": [{
         "sha1": "28337ad20c1ee164865a745560ef01d257ff009a",
-        "sha256": "e8c0c5462dce22eba23cf5d28d0f0d8786af1712400ed2b2c185578c3c33d76e",
+        "sha512": "efaaa18f13619e56dcde43d2aba6150655695c15ef0f0c5f49bac40e2a0ec1fe0e41ca4017b04d0da682fb47d5e1d23d44c0384f9c80d0ef908d7aaae20de198",
         "branch": "main"
       }]
     },
@@ -75,7 +75,7 @@
       "uri": "git+https://github.com/supply-chain-tools/release-prototype.git",
       "after": [{
         "sha1": "5a2a23a6c4ac5b607a624b5ea3dd9a6a8df2f0ab",
-        "sha256": "43e69644953743231a19eb975dbcd7af55b17d7e1879147e55994232afb48ffa",
+        "sha512": "d7dfea9c17fba867a921c06ae183bc49d359baaf52afa9a2bf8e1d4b5d3a39cb00d463ac172696dee36de1eca3dc1457fe7c0dd229c0672569ff5c40620959a5",
         "branch": "main"
       }]
     },
@@ -83,7 +83,7 @@
       "uri": "git+https://github.com/supply-chain-tools/experimentation.git",
       "after": [{
         "sha1": "f4762e41b77f604c4b6ed7cf6fc13af0f4e3d022",
-        "sha256": "43d67539515069c342d7f31c3d58733df039a3fcf9d11705d4771ebf40a5fae7",
+        "sha512": "07c91d3d30487ff418f157e3f32400a3ebb5091bae48a92c2de66faeb092747c94630999181c000337c77659930baab7e8d7c0d7004d81d5fe1f038882e8fa3f",
         "branch": "main"
       }]
     }
