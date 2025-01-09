@@ -80,6 +80,14 @@
       }]
     },
     {
+      "uri": "git+https://github.com/supply-chain-tools/ssh-sk-verify.git",
+      "after": [{
+        "sha1": "d0ddc97e5f6f474b0b8332aaec1cfa613fbae829",
+        "sha512": "1403996f8c0a7b16ba798838185beb890ed1ce45a1c46067d507c7051eb95206772358c4cc9587cf23d36f08b8ee0ee4d49182af44b5eafea57d02932fce6c47",
+        "branch": "main"
+      }]
+    },
+    {
       "uri": "git+https://github.com/supply-chain-tools/experimentation.git",
       "after": [{
         "sha1": "f4762e41b77f604c4b6ed7cf6fc13af0f4e3d022",
