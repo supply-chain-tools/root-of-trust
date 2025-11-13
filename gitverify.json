@@ -61,10 +61,6 @@
         "sha512": "dec8340a0935985f3ffc99a4c735b30e5aef4f580116af4ffc0d714457044db2d2c1b90a1de1e3bd40e2f98e7489a1ee0f7b7aa92d9c7e2bea6a108c45671e17",
         "branch": "main"
       }],
-      "maintainers": [
-        "stian.kristoffersen@telenor.no",
-        "33384479+dev-bio@users.noreply.github.com"
-      ],
       "contributors" : [
         "44880186+root4loot@users.noreply.github.com",
         "herman.fredrik.kwame.bremnes@telenor.no"
