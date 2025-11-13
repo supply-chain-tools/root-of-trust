@@ -24,12 +24,19 @@
       "sshPublicKeys": [
         "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIPptdMOOzjxQ1/Xq9zTfEcHvKfBpc0wA4av1/9sp7DjpAAAABHNzaDo="
       ]
+    },
+    {
+      "email": "herman.fredrik.kwame.bremnes@telenor.no",
+      "forgeUsername": "hermante",
+      "forgeUserId": "177941669",
+      "sshPublicKeys": [
+        "sk-ssh-ed25519@openssh.com AAAAGnNrLXNzaC1lZDI1NTE5QG9wZW5zc2guY29tAAAAIJ1ufIZjrCNDaPxPfl/EqjA8L95uq1S5NFr5Tvp5Ef1DAAAABHNzaDo="
+      ]
     }
   ],
   "maintainers": [
     "stian.kristoffersen@telenor.no",
-    "33384479+dev-bio@users.noreply.github.com",
-    "44880186+root4loot@users.noreply.github.com"
+    "33384479+dev-bio@users.noreply.github.com"
   ],
   "rules": {
     "allowSshSignatures": true,
@@ -53,7 +60,15 @@
         "sha1": "d914a9ded0d3ed2a3bf25ab40e468630c04d4001",
         "sha512": "dec8340a0935985f3ffc99a4c735b30e5aef4f580116af4ffc0d714457044db2d2c1b90a1de1e3bd40e2f98e7489a1ee0f7b7aa92d9c7e2bea6a108c45671e17",
         "branch": "main"
-      }]
+      }],
+      "maintainers": [
+        "stian.kristoffersen@telenor.no",
+        "33384479+dev-bio@users.noreply.github.com"
+      ],
+      "contributors" : [
+        "44880186+root4loot@users.noreply.github.com",
+        "herman.fredrik.kwame.bremnes@telenor.no"
+      ]
     },
     {
       "uri": "git+https://github.com/supply-chain-tools/root-of-trust.git",
