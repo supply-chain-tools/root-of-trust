@@ -99,6 +99,14 @@
       }]
     },
     {
+      "uri": "git+https://github.com/supply-chain-tools/gitverify.git",
+      "after": [{
+        "sha1": "88fc58debf5fc1e36c2e6ecf94447a084eb7aeee",
+        "sha512": "39e6e57117be9610d7d539537ec672116e6ddbe486c08a674faff8129a0cc7aaa49a53c44ee0e3066bf5b34371304be4ab570bb273120cb621f569913a931f11",
+        "branch": "main"
+      }]
+    },
+    {
       "uri": "git+https://github.com/supply-chain-tools/experimentation.git",
       "after": [{
         "sha1": "f4762e41b77f604c4b6ed7cf6fc13af0f4e3d022",
