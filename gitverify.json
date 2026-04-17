@@ -1,5 +1,5 @@
 {
-  "_type": "https://supply-chain-tools.github.io/schemas/gitverify/v0.1",
+  "_type": "https://supply-chain-tools.github.io/schemas/gitverify/v0.2",
   "identities": [
     {
       "email": "stian.kristoffersen@telenor.no",
@@ -44,14 +44,9 @@
     "requireSshUserVerified": false,
     "allowGpgSignatures": false,
     "requireSignedTags": true,
-    "requireMergeCommits": true,
-    "requireUpToDate": true
+    "requireMergeCommits": true
   },
-  "forgeId": "github.com",
-  "forgeRules": {
-    "allowMergeCommits": false,
-    "allowContentCommits": false
-  },
+  "trustedForge": null,
   "protectedBranches": ["main"],
   "repositories": [
     {
